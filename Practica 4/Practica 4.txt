@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Practica 4</title>
+<style>
+body{
+background-image: url("0_GettyImages-1303079405.jpg");
+font-family: "arial", sans-serif;
+}
+</style>
+</head>
+<body>
+<h1 id="FUTBOL">Mejores Ligas de Fùtbol del Mundo</h1>
+
+
+
+<table>
+<thead>
+<tr>
+<th>FÙTBOL</th><th>DATOS</th><th>IMAGENES</th>
+</tr>
+</thead>
+<tr>
+<td>Ligas</td> <td><ul>
+<li>Premier League</li>
+<li>La Liga</li>
+<li>Ligue 1</li>
+<li>Serie A</li>
+<li>Bundesliga</li>
+</ul></td>		<td><img src="ligas5.jpg" width="100" alt="Alt Text"  ></td>
+</tr>
+<tr>
+<td>Campeonatos Famosos</td> <td>Champions League, Europa League, EuroCopa, La liga, Premier League.</td><td><img src="copas de europa-.jpg" width="150" alt="Alt Text"  ></td>
+</tr>
+<tr>
+<td>Continente</td> <td>Todo Europa</td> 
+ <td><img src="europa_77.jpg" width="150" alt="Alt Text"  ></td>
+</tr>
+
+<tr>
+<td>Mejores Estrellas de cada Liga</td> <td><ul>
+<li>Critiano Ronaldo</li>
+<li>Leo Messi</li>
+<li>Neymar</li>
+<li>Mendy</li>
+</ul></td>
+<td><img src="cristiano-ronaldo-lionel-messi-neymar-gfx_19m3cjdrp07kw1ap1qnwrdbvii.jpg" width="150" alt="Alt Text"  ></td>
+</tr>
+
+</table>
+</body>
+</html>
+<br>
+    <p ALIGN="center">DISEÑADO POR: JIMÈNEZ RUIZ RODRIGO</p>
